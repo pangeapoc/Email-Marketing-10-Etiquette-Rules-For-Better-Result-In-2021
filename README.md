@@ -1,4 +1,4 @@
-If done right — <a herf="https://www.pangeaglobalservices.com/email-marketing-services/">Email Marketing</a> can be fascinating for your business.
+If done right — <a href="https://www.pangeaglobalservices.com/email-marketing-services/">Email Marketing</a> can be fascinating for your business.
 
 It may amaze you, but sending emails comes with various rules and regulations. 
 With all that said sending emails is an extremely fun game, but if you aren’t aware of the regulations and break anti-spam law, then you have to face serious problems that will affect your marketing capabilities.
@@ -8,7 +8,7 @@ Nailing subject line, personalizing content are a few topics that are covered un
 
 Here are the rules and regulations that you need to keep in mind before you start email marketing so that you stay within those boundaries:
 1)	Always research what kind of prospects are expecting emails, and do not send emails to those who are not expecting them.
-2)	The database is the pillar of the <a herf="https://www.pangeaglobalservices.com/email-marketing-services/">email marketing campaign</a>; hence it is very important to keep it updated so that if someone is not interested in receiving your emails then you can stop sending them.
+2)	The database is the pillar of the <a href="https://www.pangeaglobalservices.com/email-marketing-services/">email marketing campaign</a>; hence it is very important to keep it updated so that if someone is not interested in receiving your emails then you can stop sending them.
 3)	Choose the appropriate tone to communicate with the user in the form of a customer by keeping in mind what kind of relationship you want to maintain.
 4)	It is very important to create a clear identity so that customers can identify you at their first glance. And this identification can be from anything like the sender’s name, image, logo, links, and other elements.
 5)	A quick analysis of the database is important as there is a continuous change in the strategies that need to be understood and adopted on time as it helps to ensure the effectiveness of email marketing operations.
